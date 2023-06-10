@@ -294,7 +294,7 @@ const IntroLevel = () => {
           />
         </MonologWindow>
 
-        <Terminal
+      {/*   <Terminal
             isOpen={showTerminal}
             initTop={window.innerHeight - 840}
             initLeft={10}
@@ -313,7 +313,7 @@ const IntroLevel = () => {
               setBackgroundId={setBackgroundId}
               //
             />
-          </Terminal>
+          </Terminal> */}
       </div>
     </>
   )
